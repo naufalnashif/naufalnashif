@@ -1,20 +1,25 @@
+[![MasterHead](https://i.imgur.com/BqxnP2h.gif)](https://naufalnashif.netlify.app)
 <h1 align="center">Hi 👋, I'm Naufal Nashif</h1>
 <h3 align="center">Data Enthusiast</h3>
-<img allign="right" alt="coding" width = "400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"
+<img allign="right" alt="coding" width = "400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=naufalnashif&label=Profile%20views&color=0e75b6&style=flat" alt="naufalnashif" /> </p>
+
+<p align="left"> <a href="https://twitter.com/nashifnaufal_" target="blank"><img src="https://img.shields.io/twitter/follow/nashifnaufal_?logo=twitter&style=for-the-badge" alt="nashifnaufal_" /></a> </p>
 - 👨‍💻 All of my projects are available at [myWebsite](https://naufalnashif.netlify.app)
 
 - 💬 Ask me about **Python, Machine Learning, Streamlit Framework, Web Dev**
 
 - 📫 How to reach me **naufalnashif.imanuddin@gmail.com**
 
-- 📄 Know about my experiences [resume.pdf](https://naufalnashif.netlify.app/assets/pdf/RESUME_NAUFAL-NASHIF.pdf)
+- 📄 Know about my experiences [myResume](https://naufalnashif.netlify.app/assets/pdf/RESUME_NAUFAL-NASHIF.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nashifnaufal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nashifnaufal_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/naufalnashif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naufalnashif" height="30" width="40" /></a>
 <a href="https://kaggle.com/naufalnashif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="naufalnashif" height="30" width="40" /></a>
+<a href="https://twitter.com/nashifnaufal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nashifnaufal_" height="30" width="40" /></a>
+
 <a href="https://instagram.com/naufal.nashif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naufal.nashif" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@naufalnashif54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@naufalnashif54" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/naufalnashif_im1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="naufalnashif_im1" height="30" width="40" /></a>
