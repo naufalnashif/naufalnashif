@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Naufal Nashif</h1>
 <h3 align="center">Data Enthusiast</h3>
 
-- 👨‍💻 All of my projects are available at [https://naufalnashif.netlify.app](https://naufalnashif.netlify.app)
+- 👨‍💻 All of my projects are available at [myWebsite](https://naufalnashif.netlify.app)
 
 - 💬 Ask me about **Python, Machine Learning, Streamlit Framework, Web Dev**
 
 - 📫 How to reach me **naufalnashif.imanuddin@gmail.com**
 
-- 📄 Know about my experiences [https://naufalnashif.netlify.app/assets/pdf/RESUME_NAUFAL-NASHIF.pdf](https://naufalnashif.netlify.app/assets/pdf/RESUME_NAUFAL-NASHIF.pdf)
+- 📄 Know about my experiences [resume.pdf](https://naufalnashif.netlify.app/assets/pdf/RESUME_NAUFAL-NASHIF.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/naufalnashif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naufalnashif" height="30" width="40" /></a>
 <a href="https://kaggle.com/naufalnashif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="naufalnashif" height="30" width="40" /></a>
 <a href="https://instagram.com/naufal.nashif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naufal.nashif" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/naufalnashif54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="naufalnashif54" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/naufalnashif54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@naufalnashif54" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/naufalnashif_im1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="naufalnashif_im1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/naufalnashif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="naufalnashif" height="30" width="40" /></a>
 </p>
