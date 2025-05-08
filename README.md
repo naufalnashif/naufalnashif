@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **naufalnashif.imanuddin@gmail.com**
 
-- 📄 Know about my experiences [myResume](https://naufalnashif.netlify.app/assets/pdf/RES20250508_Naufal Nashif Imanuddin.pdf)
+- 📄 Know about my experiences [myResume]("https://naufalnashif.netlify.app/assets/pdf/RES20250508_Naufal Nashif Imanuddin.pdf")
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
