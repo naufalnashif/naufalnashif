@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [myWebsite](https://naufalnashif.netlify.app)
 
-- 💬 Ask me about **Python, Machine Learning, Streamlit Framework, Web Dev**
+- 💬 Ask me about **Python, Machine Learning, Streamlit Framework, Databases, SQL, Dashboard**
 
 - 📫 How to reach me **naufalnashif.imanuddin@gmail.com**
 
-- 📄 Know about my experiences [myResume](https://naufalnashif.netlify.app/assets/pdf/061024resume_naufalnashif.pdf)
+- 📄 Know about my experiences [myResume](https://naufalnashif.netlify.app/assets/pdf/RES20250508_Naufal Nashif Imanuddin.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
